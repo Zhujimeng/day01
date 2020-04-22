@@ -3,6 +3,8 @@ package cn.jiyun.pojo;
 public class User {
 
     private String userName;
+    private String userSex;
+    private String userHobby;
 
     public String getUserName() {
         return userName;
